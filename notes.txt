@@ -1,0 +1,5 @@
+Midterm Questions:
+- The last two years are posted on his website
+- Support a "repeat" looping control structure. *It's like a while loop except it doesn't recheck the test everytime through. The expression will be a number like 20*
+- Make it so if and if/else statements work.
+- Do the exponent opperator
